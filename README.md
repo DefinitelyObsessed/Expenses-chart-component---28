@@ -1,6 +1,6 @@
 # Expenses chart component
 
-![Design preview for the Expenses chart component coding challenge](./design/desktop-preview.jpg)
+![Design preview](./design/desktop-preview.jpg)
 
 ## Languages used for this challenge:
 
