@@ -1,6 +1,6 @@
 # Expenses chart component
 
-(./design/desktop-preview.jpg)
+(design/desktop-design.jpg)
 
 ## Languages used for this challenge:
 
