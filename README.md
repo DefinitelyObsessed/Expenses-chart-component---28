@@ -4,11 +4,10 @@
 
 ## Languages used for this challenge:
 
-**
-- HTML
-- CSS
-- Vanilla Javascript
-  **
+- **HTML**
+- **CSS**
+- **Vanilla Javascript**
+
 
 ## The designs were created to the following widths:
 
