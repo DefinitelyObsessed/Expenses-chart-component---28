@@ -28,9 +28,8 @@
 - Cream: hsl(27, 66%, 92%)
 - Very pale orange: hsl(33, 100%, 98%)
 
-## Typography
+## Font
 
-- Font size: 18px
 - Family: [DM Sans](https://fonts.google.com/specimen/DM+Sans)
 - Font Weights: 400, 700
 
